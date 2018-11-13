@@ -1,5 +1,5 @@
 {
-  "name": "continuation-local-storage",
+  "name": "@varlog/continuation-local-storage",
   "version": "3.2.1",
   "description": "userland implementation of https://github.com/joyent/node/issues/5243",
   "main": "context.js",
@@ -32,7 +32,7 @@
     "tap": "^10.3.1"
   },
   "dependencies": {
-    "async-listener": "^0.6.0",
+    "async-listener": "^0.6.10",
     "emitter-listener": "^1.1.1"
   }
 }

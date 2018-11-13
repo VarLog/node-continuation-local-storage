@@ -1,5 +1,15 @@
 [![NPM](https://nodei.co/npm/continuation-local-storage.png?downloads=true&stars=true)](https://nodei.co/npm/continuation-local-storage/)
 
+## ⚠️⚠️⚠️ Warning ⚠️⚠️⚠️
+
+It's a fork of continuation-local-storage that works with node 11! You should not use it if you don't understand what is going on. You can track [this issue](https://github.com/othiym23/node-continuation-local-storage/issues/137) with this update.
+
+## Install
+
+```sh
+npm install @varlog/continuation-local-storage
+```
+
 # Continuation-Local Storage
 
 Continuation-local storage works like thread-local storage in threaded
